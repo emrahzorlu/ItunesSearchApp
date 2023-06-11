@@ -14,6 +14,7 @@
 		B1C2340A2A2F39ED00B76DB3 /* ItunesSearchApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B1C234082A2F39ED00B76DB3 /* ItunesSearchApp.xcdatamodeld */; };
 		B1C2340C2A2F39EE00B76DB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1C2340B2A2F39EE00B76DB3 /* Assets.xcassets */; };
 		B1C2340F2A2F39EE00B76DB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1C2340D2A2F39EE00B76DB3 /* LaunchScreen.storyboard */; };
+		B1F367B92A323051000B9732 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F367B82A323051000B9732 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B1C2340B2A2F39EE00B76DB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1C2340E2A2F39EE00B76DB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1C234102A2F39EE00B76DB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1F367B82A323051000B9732 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B1C233FF2A2F39ED00B76DB3 /* AppDelegate.swift */,
 				B1C234012A2F39ED00B76DB3 /* SceneDelegate.swift */,
 				B1C234032A2F39ED00B76DB3 /* ViewController.swift */,
+				B1F367B82A323051000B9732 /* DetailViewController.swift */,
 				B1C234052A2F39ED00B76DB3 /* Main.storyboard */,
 				B1C2340B2A2F39EE00B76DB3 /* Assets.xcassets */,
 				B1C2340D2A2F39EE00B76DB3 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				B1C234042A2F39ED00B76DB3 /* ViewController.swift in Sources */,
 				B1C234002A2F39ED00B76DB3 /* AppDelegate.swift in Sources */,
+				B1F367B92A323051000B9732 /* DetailViewController.swift in Sources */,
 				B1C234022A2F39ED00B76DB3 /* SceneDelegate.swift in Sources */,
 				B1C2340A2A2F39ED00B76DB3 /* ItunesSearchApp.xcdatamodeld in Sources */,
 			);
